@@ -1,0 +1,411 @@
+.left-side1,
+.right-side {
+  position: absolute;
+  top: 0;
+  left: 588px;
+  background-color: #f5f5f5;
+  width: 852px;
+  height: 1024px;
+}
+.left-side1 {
+  left: 0;
+  background-color: #000;
+  width: 588px;
+}
+.board1 {
+  position: absolute;
+  top: 464px;
+  left: 171px;
+  color: #fff;
+}
+.card14,
+.card15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.card15 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.card14 {
+  width: 385px;
+  height: 317px;
+}
+.input-field {
+  border: 0;
+  background-color: transparent;
+  top: 59px;
+  left: 30px;
+  width: 325px;
+  height: 40px;
+}
+.input,
+.input-field,
+.label {
+  position: absolute;
+}
+.input {
+  border: 0;
+  background-color: #eaeaea;
+  height: 11.24%;
+  width: 84.42%;
+  top: 41.57%;
+  right: 7.79%;
+  bottom: 47.19%;
+  left: 7.79%;
+  border-radius: 10px;
+}
+.label {
+  cursor: pointer;
+  top: 44.38%;
+  left: 11.69%;
+  font-size: 16px;
+  font-family: Lato;
+  color: #000;
+  text-align: left;
+}
+.login-form-child {
+  position: absolute;
+  height: 5.34%;
+  width: 0.26%;
+  top: 44.52%;
+  right: 68.7%;
+  bottom: 50.14%;
+  left: 31.04%;
+  border-right: 1px solid #999;
+  box-sizing: border-box;
+}
+.button-primary1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #000;
+}
+.button-primary,
+.sign-in1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 325px;
+  height: 40px;
+}
+.sign-in1 {
+  top: 9px;
+  left: 112.58px;
+  font-size: 16px;
+  display: inline-block;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: center;
+  width: 101.96px;
+  height: 21.71px;
+}
+.button-sign-in,
+.email-address {
+  cursor: pointer;
+  position: absolute;
+  left: 30px;
+}
+.button-sign-in {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 247px;
+  width: 325px;
+  height: 40px;
+}
+.email-address {
+  top: 30px;
+  font-size: 16px;
+  font-family: Lato;
+  color: #000;
+  text-align: left;
+}
+.johndoegmailcom {
+  cursor: pointer;
+  top: 69px;
+  left: 45px;
+  color: #000;
+}
+.forgot-password,
+.johndoegmailcom,
+.password {
+  position: absolute;
+  font-size: 16px;
+  font-family: Lato;
+  text-align: left;
+}
+.password {
+  cursor: pointer;
+  top: 119px;
+  left: 30px;
+  color: #000;
+}
+.forgot-password {
+  margin: 0;
+  top: 208px;
+  left: 31px;
+  color: #346bd4;
+}
+.dont-have-an {
+  color: #858585;
+}
+.register-here {
+  color: #346bd4;
+}
+.dont-have-an-container {
+  margin: 0;
+  position: absolute;
+  top: 337px;
+  left: 62px;
+  font-size: 16px;
+  font-family: Lato;
+  text-align: center;
+}
+.login-form {
+  position: absolute;
+  top: 409px;
+  left: 832px;
+  width: 385px;
+  height: 356px;
+}
+.button,
+.white {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.button {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.white {
+  width: 180px;
+  height: 30px;
+}
+.sign-in-with {
+  position: absolute;
+  top: 8px;
+  left: 43px;
+  font-size: 12px;
+  font-family: Montserrat;
+  color: #858585;
+  text-align: center;
+}
+.google-icon-1 {
+  position: absolute;
+  top: 8px;
+  left: 19px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.google-sign-in {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 354px;
+  left: 832px;
+  width: 180px;
+  height: 30px;
+}
+.sign-in-with1 {
+  position: absolute;
+  top: 8px;
+  left: 46px;
+  font-size: 12px;
+  font-family: Montserrat;
+  color: #858585;
+  text-align: center;
+}
+.apple-1-icon {
+  position: absolute;
+  top: 7px;
+  left: 24px;
+  width: 11.5px;
+  height: 14px;
+  overflow: hidden;
+}
+.apple-sign-in {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 354px;
+  left: 1037px;
+  width: 180px;
+  height: 30px;
+}
+.sign-in-to,
+.sign-in2 {
+  position: absolute;
+  top: 260px;
+  left: 832px;
+  font-size: 36px;
+}
+.sign-in-to {
+  top: 309px;
+  font-size: 16px;
+  font-family: Lato;
+}
+.sign-in {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 72px;
+  color: #000;
+  font-family: Montserrat;
+}
+
+
+
+/* Responsive styles for all viewports and screen sizes */
+@media only screen and (max-width: 600px) {
+  .sign-in {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .right-side {
+    display: none;
+  }
+  
+  .left-side1 {
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+    /* background-image: url("/background.png"); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .board1 {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 72px;
+  }
+  
+  .login-form {
+    width: 100%;
+    max-width: 500px;
+    padding: 30px;
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-field {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+    background-color: transparent;
+  }
+  
+  .input {
+    display: none;
+  }
+  
+  .label {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .login-form-child {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .button-sign-in {
+    width: 100%;
+    max-width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #0077ff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .button-sign-in:hover {
+    background-color: #0066cc;
+  }
+  
+  .button-primary {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .button-primary1 {
+    width: 20px;
+    height: 20px;
+    /* background-image: url("/checkmark.svg"); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+  }
+  
+  .button-sign-in:hover .button-primary1 {
+    opacity: 1;
+  }
+  
+  .sign-in1 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+  }
+  
+  .email-address,
+  .johndoegmailcom,
+  .password,
+  .forgot-password,
+  .dont-have-an,
+  .register-here {
+    font-size: 14px;
+    color: #999;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+ 
+}
